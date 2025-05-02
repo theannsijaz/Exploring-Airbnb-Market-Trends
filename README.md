@@ -1,6 +1,6 @@
 # Airbnb Data Analysis
 
-As part of my work as a consultant for a real estate start-up, I have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. This project involves analyzing this data to provide insights on private rooms to the real estate company.
+I have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. This project involves analyzing this data to provide insights on private rooms to the real estate company.
 
 There are three files in the data folder: `airbnb_price.csv`, `airbnb_room_type.xlsx`, `airbnb_last_review.tsv`.
 
